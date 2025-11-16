@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Francisco Ferreira Silva",
   "license": "MIT",
   "description": "",
   "dependencies": {
